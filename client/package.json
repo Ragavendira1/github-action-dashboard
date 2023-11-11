@@ -8,7 +8,7 @@
     "lint": "DOCKER_BUILD=true vue-cli-service lint"
   },
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.6.0",
     "core-js": "^3.22.5",
     "dayjs": "^1.11.2",
     "lodash-es": "^4.17.21",
